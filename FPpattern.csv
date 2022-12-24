@@ -1,0 +1,36 @@
+Support,State,Itemsets,Year,Latitude,Longitude
+0.007220890319353952,California,"['White', '1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'California']",1985-1994,36.7014631,-118.755997
+0.006674720290029971,California,"['1995-2004', 'White', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'California']",1995-2004,36.7014631,-118.755997
+0.005020036602100826,New York,"['1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'New York', 'Black']",1985-1994,40.7127281,-74.0060152
+0.004496260788102203,California,"['1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'California', 'Black']",1985-1994,36.7014631,-118.755997
+0.00449252841888131,California,"['White', '18-30', 'Handgun - pistol, revolver, etc', '2005-2014', 'Male', 'California']",2005-2014,36.7014631,-118.755997
+0.0038207019591206043,California,"['White', '1985-1994', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'California']",1985-1994,36.7014631,-118.755997
+0.0034847887292402515,California,"['White', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'California', '1975-1984']",1975-1984,36.7014631,-118.755997
+0.003468615129283049,New York,"['White', '1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'New York']",1985-1994,40.7127281,-74.0060152
+0.0033628646680244198,California,"['1995-2004', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'California', 'Black']",1995-2004,36.7014631,-118.755997
+0.0031277254071081727,Texas,"['White', '1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Texas']",1985-1994,31.2638905,-98.5456116
+0.002933642207621747,California,"['1995-2004', 'White', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'California']",1995-2004,36.7014631,-118.755997
+0.0029236892230326992,Texas,"['White', '18-30', 'Handgun - pistol, revolver, etc', 'Male', '1975-1984', 'Texas']",1975-1984,31.2638905,-98.5456116
+0.002677352854453774,California,"['18-30', 'Handgun - pistol, revolver, etc', '2005-2014', 'Male', 'California', 'Black']",2005-2014,36.7014631,-118.755997
+0.0025964848546677632,New York,"['1995-2004', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'New York', 'Black']",1995-2004,40.7127281,-74.0060152
+0.0025442316855752638,New York,"['18-30', 'Handgun - pistol, revolver, etc', 'Male', '1975-1984', 'New York', 'Black']",1975-1984,40.7127281,-74.0060152
+0.0024932226395563955,Texas,"['1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Texas', 'Black']",1985-1994,31.2638905,-98.5456116
+0.0023451719937943143,Texas,"['White', '1985-1994', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'Texas']",1985-1994,31.2638905,-98.5456116
+0.0023426837476470523,Maryland,"['1995-2004', '18-30', 'Maryland', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1995-2004,39.5162401,-76.9382069
+0.0023028718092908624,Illinois,"['Illinois', '1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1985-1994,40.0796606,-89.4337288
+0.002285454086260029,Pennsylvania,"['Pennsylvania', '2005-2014', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",2005-2014,40.9699889,-77.7278831
+0.002230712671020268,Pennsylvania,"['1995-2004', 'Pennsylvania', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1995-2004,40.9699889,-77.7278831
+0.0022244920556521133,Illinois,"['Illinois', '1995-2004', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1995-2004,40.0796606,-89.4337288
+0.0021859242403695542,California,"['White', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'California', '1975-1984']",1975-1984,36.7014631,-118.755997
+0.002177215378854138,Illinois,"['Illinois', '18-30', 'Handgun - pistol, revolver, etc', '2005-2014', 'Male', 'Black']",2005-2014,40.0796606,-89.4337288
+0.0021697506404123523,Texas,"['1995-2004', 'White', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Texas']",1995-2004,31.2638905,-98.5456116
+0.0021647741481178283,California,"['White', '2005-2014', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'California']",2005-2014,36.7014631,-118.755997
+0.002158553532749674,Texas,"['White', 'Handgun - pistol, revolver, etc', '31-50', 'Male', '1975-1984', 'Texas']",1975-1984,31.2638905,-98.5456116
+0.0021573094096760427,Michigan,"['Michigan', '1985-1994', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1985-1994,43.6211955,-84.6824346
+0.0021423799327924715,Louisiana,"['Louisiana', '1995-2004', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",1995-2004,30.8703881,-92.007126
+0.002134915194350686,New York,"['White', '18-30', 'Handgun - pistol, revolver, etc', 'Male', '1975-1984', 'New York']",1975-1984,40.7127281,-74.0060152
+0.0021063003636571744,New York,"['White', '1985-1994', 'Handgun - pistol, revolver, etc', '31-50', 'Male', 'New York']",1985-1994,40.7127281,-74.0060152
+0.0020465824561228894,Maryland,"['18-30', 'Maryland', 'Handgun - pistol, revolver, etc', '2005-2014', 'Male', 'Black']",2005-2014,39.5162401,-76.9382069
+0.0020341412253865802,Illinois,"['Illinois', '2015-2022', '18-30', 'Handgun - pistol, revolver, etc', 'Male', 'Black']",2015-2022,40.0796606,-89.4337288
+0.0020241882407975326,California,"['White', '1985-1994', '18-30', 'Knife or cutting instrument', 'Male', 'California']",1985-1994,36.7014631,-118.755997
+0.0020067705177666995,California,"['White', '18-30', 'Knife or cutting instrument', 'Male', 'California', '1975-1984']",1975-1984,36.7014631,-118.755997
